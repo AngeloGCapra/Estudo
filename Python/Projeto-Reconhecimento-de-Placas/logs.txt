@@ -1,0 +1,7 @@
+Placa: BRA2E19, Hora: 2023-11-07 10:21:41
+Placa: BRA2E19, Hora: 2023-11-07 10:23:09, Peso: 1500.0
+Placa: BRA2E19, Hora: 2023-11-07 12:23:07, Peso: 1500.0
+Placa: BRA2E19, Hora: 2023-11-07 12:23:42, Peso: 1492.0
+Placa: BRA2E19, Hora: 2023-11-07 12:25:33, Peso: 1.0
+Placa: ABC1D34, Hora: 2023-11-07 12:29:37, Peso: None
+Placa: FER2A23, Hora: 2023-11-07 12:30:04, Peso: None
